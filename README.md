@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software development of all kinds!
 - 🌱 I’m currently studing React & backend technologies like Node and Firebase.
 - 💞️ I’m looking to collaborate on anything I can to learn more and develop real world experience.
-- 📫 How to reach me by email at lbflame36@gmail.com 
+- 📫 How to reach me by email at lbflame36@gmail.com & by phone 614-701-6160
