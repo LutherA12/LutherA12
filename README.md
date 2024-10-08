@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @LutherA12
-- 👀 I’m interested in Software development of all kinds!
-- 🌱 I’m currently studing React & backend technologies like Node and Firebase.
-- 💞️ I’m looking to collaborate on anything I can to learn more and develop real world experience.
-- 📫 How to reach me by email at lbflame36@gmail.com & by phone 614-701-6160
+Hi, I’m @LutherA12, I've been studing software development for around 3 years now & am currently studing React & backend technologies like Node and Firebase. I’m always looking to collaborate on anything I can to learn more.
+How to reach me by email at lbflame36@gmail.com & by phone 614-701-6160
